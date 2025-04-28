@@ -70,13 +70,3 @@ Fawry-Internship-Task/
 
 ---
 
-
-
-
-
-
-
-
-
-
----
